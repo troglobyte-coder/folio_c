@@ -5,7 +5,7 @@
 The hacker folio module is a way to help you
 see what I've solved for yourself in a nice
 concise collection,
-in this case, it's written in `X`, it also
+in this case, it's written in `C`, it also
 includes notes throughout the project to
 give further information.
 
